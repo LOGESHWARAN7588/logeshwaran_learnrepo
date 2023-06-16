@@ -14,3 +14,4 @@ for ex5 in data:
    
 with open('data.json', 'w') as file:
     json.dump(data, file, indent=4)
+    
